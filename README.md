@@ -26,14 +26,17 @@
   <a>
     <img title="Python" alt="Python" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
+    <a>
+    <img title="C#" alt="C#" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  </a>
   <a>
     <img title="Bash" alt="Bash" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </a>
   <a>
     <img title="Java" alt="Java" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
-  <a>
-    <img title="C#" alt="C#" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <a>
+    <img title="PHP" alt="PHP" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a>
   <a>
     <img title="JavaScript" alt="JavaScript" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
