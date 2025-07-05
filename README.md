@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Software Developer ● Game Developer ● Cybersecurity Enthusiast</h3>
+<h3 align="center">Cybersecurity Enthusiast ● Software Developer ● Game Developer</h3>
 
 ###
 
