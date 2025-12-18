@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Cybersecurity Enthusiast ● Software Developer ● Game Developer</h3>
+<h3 align="center">Software Developer ● Cybersecurity Enthusiast ● Game Developer</h3>
 
 ###
 
@@ -19,7 +19,12 @@
 ###
 
 <div align="center">
-
+  <a>
+    <img title="Java" alt="Java" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  </a>
+  <a>
+    <img title="Spring" alt="Spring" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  </a>
   <a>
     <img title="React" alt="React" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
@@ -31,9 +36,6 @@
   </a>
   <a>
     <img title="Bash" alt="Bash" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  </a>
-  <a>
-    <img title="Java" alt="Java" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
     <a>
     <img title="PHP" alt="PHP" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
